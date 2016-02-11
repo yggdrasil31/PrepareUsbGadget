@@ -73,12 +73,13 @@ int main(int argc, char **argv)
 
 	/* Start Self-test */
 	USB_iStart_gadget_self_test();
-
+	/*
 	sleep(15);
 
 	lvs32RoutineResultStatus = USB_iGadget_test_stop();
 
 	fprintf(stdout, "USB result = %d\n", lvs32RoutineResultStatus);
+	*/
 
 	return 0;
 }
