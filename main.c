@@ -44,7 +44,7 @@ int main(int argc, char **argv)
 	//-------------------------------------------------------------------------------
 
 	TU16 lvu16ArgCount = 0;
-	TS32 lvs32RoutineResultStatus = 0;	
+	//TS32 lvs32RoutineResultStatus = 0;	
 
 	//-------------------------------------------------------------------------------
 	//Check arguments
